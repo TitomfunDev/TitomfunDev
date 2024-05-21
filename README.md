@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TitomfunDev
+- 🇫🇷 I’m French but I can speak English
+- 👀 I’m interested in developing games, apps...
+- 🌱 I’m currently learning Python, Lua, Java, JavaScript...
+- 📫 How to reach me: SOON
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have project but I’m too dumb to make it
