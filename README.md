@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Python, Lua, Java, JavaScript...
 - 📫 How to reach me: SOON
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have project but I’m too dumb to make it
+- ⚡ Fun fact: I have projects but I’m too dumb to make it
